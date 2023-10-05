@@ -4,8 +4,6 @@ public:
 
         // Considering majority element is always present, no other number can exist more than n/2 times. So we can decrease the count everytime we encounter a different number. this will help us achieve the element.
 
-        // Moore's Voting Algorithm
-        
         int ele=0;
         int count=0;
 

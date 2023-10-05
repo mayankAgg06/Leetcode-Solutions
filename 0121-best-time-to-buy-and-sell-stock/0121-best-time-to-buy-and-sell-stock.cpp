@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-
+        
         int minm=INT_MAX;
         int profit=INT_MIN;
 

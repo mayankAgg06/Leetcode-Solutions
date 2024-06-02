@@ -22,3 +22,19 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0148-sort-list) |
+# Array
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mayank623/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+# Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mayank623/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+# Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mayank623/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+# Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mayank623/Leetcode-Solutions/tree/master/0037-sudoku-solver) |

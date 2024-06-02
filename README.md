@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 # Two Pointers
 |  |
 | ------- |

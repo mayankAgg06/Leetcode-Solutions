@@ -1,52 +1,51 @@
 class Solution {
 public:
-    bool safeToPlace(vector<vector<char>>& board, int i, int j, int n,
-                     int num) {
-        for (int k = 1; k <= n; k++) {
-            if (board[i][k - 1] == num + '0' || board[k - 1][j] == num + '0') {
-                return false;
-            }
-        }
-        n = sqrt(n);
-        int si = (i / n) * n;
-        int sj = (j / n) * n;
+     bool row[9][10], col[9][10], sq[9][10];
 
-        for (int a = si; a < si + n; a++) {
-            for (int b = sj; b < sj + n; b++) {
-                if (board[a][b] == num + '0') {
-                    return false;
-                }
-            }
-        }
-        return true;
+    bool isValid(int i, int j, int num) {
+        int k = (i / 3) * 3 + (j / 3);
+        return !row[i][num] && !col[j][num] && !sq[k][num];
     }
 
-    bool solving(vector<vector<char>>& board, int i, int j, int n) {
-        if (i == n)
-            return true;
+    void visit(int i, int j, int num) {
+        int k = (i / 3) * 3 + (j / 3);
+        row[i][num] = col[j][num] = sq[k][num] = true;
+    }
 
-        if (j == n) {
-            return solving(board, i + 1, 0, n);
-        }
+    void unvisit(int i, int j, int num) {
+        int k = (i / 3) * 3 + (j / 3);
+        row[i][num] = col[j][num] = sq[k][num] = false;
+    }
 
-        if (board[i][j] != '.')
-            return solving(board, i, j + 1, n);
+    bool Backtrack(vector<vector<char>>& board, int i, int j) {
+        if (i == 9) return true;
+        if (j == 9) return Backtrack(board, i + 1, 0);
+        if (board[i][j] != '.') return Backtrack(board, i, j + 1);
 
-        for (int val = 1; val <= 9; val++) {
-
-            if (safeToPlace(board, i, j, n, val) == true) {
-                board[i][j] = val+'0';
-                bool kyaBakihua = solving(board, i, j + 1, n);
-                if (kyaBakihua == true) {
-                    return true;
-                }
+        for (int num = 1; num <= 9; num++) {
+            if (isValid(i, j, num)) {
+                board[i][j] = num + '0';
+                visit(i, j, num);
+                if (Backtrack(board, i, j + 1)) return true;
                 board[i][j] = '.';
+                unvisit(i, j, num);
             }
         }
-
         return false;
     }
+
     void solveSudoku(vector<vector<char>>& board) {
-        solving(board, 0, 0, board.size());
+        memset(row, false, sizeof(row));
+        memset(col, false, sizeof(col));
+        memset(sq, false, sizeof(sq));
+        for (int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
+                if (board[i][j] != '.') {
+                    int num = board[i][j] - '0';
+                    visit(i, j, num);
+                }
+            }
+        }
+        Backtrack(board, 0, 0);
     }
 };

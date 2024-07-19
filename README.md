@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayank623/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0143-reorder-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
@@ -128,4 +129,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mayank623/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->

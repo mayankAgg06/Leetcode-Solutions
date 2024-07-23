@@ -83,6 +83,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/mayank623/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mayank623/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mayank623/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/mayank623/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank623/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank623/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mayank623/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/mayank623/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mayank623/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/mayank623/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank623/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |

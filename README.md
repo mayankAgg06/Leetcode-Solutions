@@ -88,6 +88,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank623/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mayank623/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mayank623/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/mayank623/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1036-rotting-oranges](https://github.com/mayank623/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Matrix
@@ -102,6 +103,7 @@
 | [0070-climbing-stairs](https://github.com/mayank623/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mayank623/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank623/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/mayank623/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mayank623/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank623/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/mayank623/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
 | ------- |

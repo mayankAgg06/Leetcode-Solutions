@@ -1,36 +1,48 @@
 class Solution {
 public:
     int visibleMountains(vector<vector<int>>& peaks) {
-
-        vector<vector<int>> points=peaks;
-
-        for(int i=0; i<peaks.size(); i++)
-        {
-            points[i][0]-=peaks[i][1];
-            points[i][1]+=peaks[i][0];
+        int repeated = 0;        
+        vector<vector<int>> intervals;
+        
+        for (auto peak : peaks) {
+            intervals.push_back({ peak[0] - peak[1], peak[0] + peak[1] });
         }
-
-        sort(points.begin(),points.end());
-
-        int visible=0;
-        int i=0;
-
-        while(i<points.size())
-        {
-            visible++;
-
-            if(i==points.size()-1) return visible;
+        
+        sort(intervals.begin(), intervals.end());
+        
+        // The answer is the number of intervals that can be hidden under other intervals
+        // So we will use a monotonic stack for that
+        stack<vector<int>> st;
+        
+        bool repeatedBefore = false;
+        for (int i = 0; i < intervals.size(); i++) { 
+            // Remove the repeated intervals since they overlap each other, and none of them is visible
+            // We only remove one instance from each interval, regardless of how many times it occurs
+                // Example: [[5,2],[5,2],[[8,4],[8,4],[8,4],[8,4],[8,4],[8,4],[8,4]]
+                // We will subtract 2 only, since we have repeated intervals { [5, 2], [8, 4] }
+            if (!repeatedBefore && !st.empty() && st.top()[1] == intervals[i][1] && st.top()[0] == intervals[i][0]) {
+                repeated++;
+                repeatedBefore = true;
+            } 
             
-            if(points[i][0]==points[i+1][0])visible--;
-
-            int currentEnd= points[i][1];
-
-            while(i<points.size()-1 and currentEnd>= points[i+1][1]) i++;
-
-            i++;
-
-        }        
-
-        return visible;
+            if (i > 0 && intervals[i][0] != intervals[i - 1][0] && intervals[i][1] != intervals[i - 1][1]) {
+                repeatedBefore = false;
+            }
+            
+            // If the new interval can hide tops of the stacks, then we keep popping them
+            while(!st.empty() && (st.top()[0] >= intervals[i][0] && st.top()[1] <= intervals[i][1]) ) {
+                st.pop();
+            }
+            
+            // If the new interval can't hide the top (peak) interval of the stack, then skip it
+            if (!st.empty() && (st.top()[0] <= intervals[i][0] && st.top()[1] >= intervals[i][1]) ) {
+                continue;
+            }
+            
+            st.push(intervals[i]);
+        }
+        
+        
+        return max((int)st.size() - repeated, 0);
     }
 };

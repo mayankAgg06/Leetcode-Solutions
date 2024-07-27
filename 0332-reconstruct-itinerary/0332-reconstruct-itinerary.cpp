@@ -2,7 +2,6 @@ class Solution {
 public:
     void dfs( unordered_map<string,vector<string>>& adj, vector<string> & itinerary, string start)
     {
-
         while(!adj[start].empty())
         {
             string next=adj[start].back();
@@ -10,6 +9,7 @@ public:
             dfs(adj,itinerary,next);
         }
         itinerary.push_back(start);
+       
     }
     vector<string> findItinerary(vector<vector<string>>& tickets) {
         unordered_map<string,vector<string>> adj;

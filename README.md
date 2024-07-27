@@ -92,6 +92,7 @@
 | [0238-product-of-array-except-self](https://github.com/mayank623/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/mayank623/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0873-guess-the-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 | [1036-rotting-oranges](https://github.com/mayank623/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mayank623/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0873-guess-the-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 ## Memoization
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0873-guess-the-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 ## Tree
 |  |
 | ------- |
@@ -216,4 +219,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Interactive
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0873-guess-the-word) |
+## Game Theory
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 <!---LeetCode Topics End-->

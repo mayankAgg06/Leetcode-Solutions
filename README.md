@@ -96,6 +96,7 @@
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0873-guess-the-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 | [1036-rotting-oranges](https://github.com/mayank623/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Matrix
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0217-contains-duplicate](https://github.com/mayank623/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Recursion
 |  |
 | ------- |
@@ -233,4 +236,8 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/mayank623/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
 <!---LeetCode Topics End-->

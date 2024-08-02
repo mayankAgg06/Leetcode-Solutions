@@ -100,6 +100,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/mayank623/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/mayank623/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/mayank623/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0873-guess-the-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 | [0907-koko-eating-bananas](https://github.com/mayank623/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/mayank623/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -128,12 +129,14 @@
 | [0242-valid-anagram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/mayank623/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/mayank623/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mayank623/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/mayank623/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Prefix Sum
 |  |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayank623/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/mayank623/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
@@ -228,6 +232,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/mayank623/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -236,6 +241,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/mayank623/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |

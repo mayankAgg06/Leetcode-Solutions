@@ -88,6 +88,7 @@
 | [0064-minimum-path-sum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mayank623/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayank623/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/mayank623/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank623/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank623/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -176,6 +177,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/mayank623/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
@@ -251,6 +253,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/mayank623/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
 <!---LeetCode Topics End-->

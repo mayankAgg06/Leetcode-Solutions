@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/mayank623/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mayank623/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayank623/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -68,6 +69,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mayank623/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mayank623/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/mayank623/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
@@ -75,6 +77,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mayank623/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/mayank623/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
@@ -97,6 +100,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayank623/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mayank623/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/mayank623/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/mayank623/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/mayank623/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mayank623/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -113,6 +117,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mayank623/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/mayank623/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/mayank623/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |

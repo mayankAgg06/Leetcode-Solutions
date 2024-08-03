@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0207-course-schedule](https://github.com/mayank623/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayank623/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -67,6 +68,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mayank623/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/mayank623/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/mayank623/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -77,6 +79,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mayank623/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/mayank623/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0801-is-graph-bipartite](https://github.com/mayank623/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Array
@@ -276,4 +279,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mayank623/Leetcode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

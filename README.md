@@ -106,6 +106,7 @@
 | [0217-contains-duplicate](https://github.com/mayank623/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mayank623/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/mayank623/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/mayank623/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/mayank623/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/mayank623/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/mayank623/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/mayank623/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
@@ -295,4 +297,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mayank623/Leetcode-Solutions/tree/master/0207-course-schedule) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/mayank623/Leetcode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

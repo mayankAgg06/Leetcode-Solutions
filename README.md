@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayank623/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/mayank623/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mayank623/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mayank623/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayank623/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/mayank623/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Greedy
 |  |

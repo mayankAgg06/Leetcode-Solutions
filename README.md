@@ -92,6 +92,7 @@
 | [0027-remove-element](https://github.com/mayank623/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mayank623/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mayank623/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mayank623/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mayank623/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayank623/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mayank623/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mayank623/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mayank623/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mayank623/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayank623/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/mayank623/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/mayank623/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 ## Math
 |  |

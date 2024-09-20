@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mayank623/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/mayank623/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mayank623/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -69,6 +70,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mayank623/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/mayank623/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mayank623/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -196,6 +198,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mayank623/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Stack
 |  |
@@ -218,6 +221,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mayank623/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mayank623/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayank623/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -234,6 +238,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mayank623/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mayank623/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayank623/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |

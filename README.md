@@ -56,6 +56,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayank623/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mayank623/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/mayank623/Leetcode-Solutions/tree/master/0200-number-of-islands) |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayank623/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/mayank623/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
@@ -228,6 +230,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayank623/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mayank623/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mayank623/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -246,6 +249,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayank623/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mayank623/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mayank623/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |

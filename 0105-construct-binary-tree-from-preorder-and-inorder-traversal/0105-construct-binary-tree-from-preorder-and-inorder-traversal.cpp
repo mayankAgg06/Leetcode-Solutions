@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    map<int,int> help;
+    unordered_map<int,int> help;
     TreeNode* build(vector<int> preorder, vector<int> inorder, int inStart, int inEnd, int preStart, int preEnd)
     {
         if(preStart>preEnd || inStart>inEnd) return NULL;

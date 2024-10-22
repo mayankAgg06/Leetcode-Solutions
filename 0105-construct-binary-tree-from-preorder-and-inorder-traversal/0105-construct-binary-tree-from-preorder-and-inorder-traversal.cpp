@@ -11,7 +11,8 @@
  */
 class Solution {
 public:
-    TreeNode* build(vector<int> preorder, vector<int> inorder, int inStart, int inEnd, int preStart, int preEnd,map<int,int> &help)
+    map<int,int> help;
+    TreeNode* build(vector<int> preorder, vector<int> inorder, int inStart, int inEnd, int preStart, int preEnd)
     {
         if(preStart>preEnd || inStart>inEnd) return NULL;
 
@@ -20,21 +21,19 @@ public:
         int inRoot = help[preorder[preStart]];
         int nums = inRoot - inStart;
 
-        root->left = build(preorder,inorder,inStart,inRoot-1,preStart+1,preStart+nums,help);
-        root->right = build(preorder,inorder,inRoot+1,inEnd,preStart+nums+1,preEnd,help);
+        root->left = build(preorder,inorder,inStart,inRoot-1,preStart+1,preStart+nums);
+        root->right = build(preorder,inorder,inRoot+1,inEnd,preStart+nums+1,preEnd);
 
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-
-        map<int,int> help;
 
         for(int i=0; i<inorder.size(); i++)
         {
             help[inorder[i]]=i;
         }
 
-        return build(preorder,inorder,0,inorder.size()-1,0,preorder.size()-1,help);
+        return build(preorder,inorder,0,inorder.size()-1,0,preorder.size()-1);
         
     }
 };

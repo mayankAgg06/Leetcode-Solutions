@@ -11,34 +11,30 @@
  */
 class Solution {
 public:
-    
-    TreeNode* make(vector<int>& preorder, vector<int>& inorder, int prestart, int preend,int instart, int inend, map<int,int> &mp)
+    TreeNode* build(vector<int> preorder, vector<int> inorder, int inStart, int inEnd, int preStart, int preEnd,map<int,int> &help)
     {
-        if(prestart>preend || instart>inend)return NULL;
+        if(preStart>preEnd || inStart>inEnd) return NULL;
 
-        TreeNode* root= new TreeNode(preorder[prestart]);
+        TreeNode* root = new TreeNode(preorder[preStart]);
 
-        int inroot= mp[preorder[prestart]];
-        int nums= inroot-instart;
+        int inRoot = help[preorder[preStart]];
+        int nums = inRoot - inStart;
 
-        root->left= make(preorder,inorder,prestart+1, prestart+nums,instart,inroot-1,mp);
-        root->right= make(preorder,inorder,prestart+nums+1,preend,inroot+1,inend,mp);
+        root->left = build(preorder,inorder,inStart,inRoot-1,preStart+1,preStart+nums,help);
+        root->right = build(preorder,inorder,inRoot+1,inEnd,preStart+nums+1,preEnd,help);
 
         return root;
     }
-        
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        
-        if(inorder.size()!=preorder.size() || inorder.size()==0)return NULL;
 
-        map<int,int> mpp;
+        map<int,int> help;
 
         for(int i=0; i<inorder.size(); i++)
         {
-            mpp[inorder[i]]=i;
+            help[inorder[i]]=i;
         }
-        
-        return make(preorder,inorder,0,preorder.size()-1,0,inorder.size()-1,mpp);
+
+        return build(preorder,inorder,0,inorder.size()-1,0,preorder.size()-1,help);
         
     }
 };

@@ -134,6 +134,7 @@
 | [0907-koko-eating-bananas](https://github.com/mayank623/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/mayank623/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank623/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayank623/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Matrix
 |  |
@@ -154,6 +155,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank623/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/mayank623/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/mayank623/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayank623/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -362,6 +364,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayank623/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Queue
 |  |
 | ------- |

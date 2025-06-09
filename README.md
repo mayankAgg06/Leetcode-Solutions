@@ -216,6 +216,7 @@
 | [0027-remove-element](https://github.com/mayank623/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/mayank623/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [1894-merge-strings-alternately](https://github.com/mayank623/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -259,6 +260,7 @@
 | [0383-ransom-note](https://github.com/mayank623/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0873-guess-the-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mayank623/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1894-merge-strings-alternately](https://github.com/mayank623/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Tree
 |  |
 | ------- |

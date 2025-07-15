@@ -257,6 +257,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/mayank623/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/mayank623/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mayank623/Leetcode-Solutions/tree/master/0383-ransom-note) |

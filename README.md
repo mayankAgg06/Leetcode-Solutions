@@ -215,6 +215,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayank623/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/mayank623/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayank623/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/mayank623/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1894-merge-strings-alternately](https://github.com/mayank623/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -259,6 +260,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mayank623/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/mayank623/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayank623/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mayank623/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0873-guess-the-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0873-guess-the-word) |
@@ -322,6 +324,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayank623/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |

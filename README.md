@@ -141,6 +141,7 @@
 | [1036-rotting-oranges](https://github.com/mayank623/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/mayank623/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank623/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1219-longest-well-performing-interval](https://github.com/mayank623/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayank623/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Matrix
@@ -179,6 +180,7 @@
 | [0496-next-greater-element-i](https://github.com/mayank623/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/mayank623/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mayank623/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1219-longest-well-performing-interval](https://github.com/mayank623/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 ## Sorting
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mayank623/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/mayank623/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1219-longest-well-performing-interval](https://github.com/mayank623/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -261,6 +264,7 @@
 | [0316-remove-duplicate-letters](https://github.com/mayank623/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/mayank623/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank623/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1219-longest-well-performing-interval](https://github.com/mayank623/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Recursion
 |  |
@@ -387,6 +391,7 @@
 | [0316-remove-duplicate-letters](https://github.com/mayank623/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/mayank623/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank623/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1219-longest-well-performing-interval](https://github.com/mayank623/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
 ## Queue
 |  |

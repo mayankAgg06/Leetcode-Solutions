@@ -237,6 +237,7 @@
 | [0134-gas-station](https://github.com/mayank623/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/mayank623/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/mayank623/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mayank623/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
 | ------- |
@@ -263,6 +264,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/mayank623/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/mayank623/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/mayank623/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mayank623/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank623/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1219-longest-well-performing-interval](https://github.com/mayank623/Leetcode-Solutions/tree/master/1219-longest-well-performing-interval) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/mayank623/Leetcode-Solutions/tree/master/2485-finding-the-number-of-visible-mountains) |
@@ -281,6 +283,7 @@
 | [0316-remove-duplicate-letters](https://github.com/mayank623/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/mayank623/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0873-guess-the-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0873-guess-the-word) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mayank623/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mayank623/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/mayank623/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Tree

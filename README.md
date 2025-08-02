@@ -113,6 +113,7 @@
 | [0036-valid-sudoku](https://github.com/mayank623/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/mayank623/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mayank623/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/mayank623/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mayank623/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mayank623/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mayank623/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/mayank623/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mayank623/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/mayank623/Leetcode-Solutions/tree/master/0200-number-of-islands) |
@@ -452,4 +454,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/mayank623/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/mayank623/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

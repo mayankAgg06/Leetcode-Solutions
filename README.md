@@ -133,6 +133,7 @@
 | [0274-h-index](https://github.com/mayank623/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/mayank623/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mayank623/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/mayank623/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/mayank623/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/mayank623/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -176,6 +177,7 @@
 | [0217-contains-duplicate](https://github.com/mayank623/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mayank623/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mayank623/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/mayank623/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/mayank623/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/mayank623/Leetcode-Solutions/tree/master/0621-task-scheduler) |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mayank623/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mayank623/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0873-guess-the-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0873-guess-the-word) |
 ## Memoization
 |  |
@@ -425,6 +428,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/mayank623/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/mayank623/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mayank623/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mayank623/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
@@ -439,4 +443,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mayank623/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/mayank623/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

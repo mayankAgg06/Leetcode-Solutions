@@ -116,6 +116,7 @@
 | [0054-spiral-matrix](https://github.com/mayank623/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mayank623/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/mayank623/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/mayank623/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mayank623/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -290,6 +291,7 @@
 | [0014-longest-common-prefix](https://github.com/mayank623/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayank623/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/mayank623/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/mayank623/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mayank623/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -461,4 +463,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mayank623/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/mayank623/Leetcode-Solutions/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->

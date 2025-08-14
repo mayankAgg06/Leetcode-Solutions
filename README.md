@@ -235,6 +235,7 @@
 | [0042-trapping-rain-water](https://github.com/mayank623/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/mayank623/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/mayank623/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/mayank623/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/mayank623/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1894-merge-strings-alternately](https://github.com/mayank623/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Greedy
@@ -290,6 +291,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayank623/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mayank623/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/mayank623/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/mayank623/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/mayank623/Leetcode-Solutions/tree/master/0383-ransom-note) |

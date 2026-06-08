@@ -167,6 +167,7 @@
 | [0055-jump-game](https://github.com/mayank623/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mayank623/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mayank623/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/mayank623/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/mayank623/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank623/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/mayank623/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -295,6 +296,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayank623/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mayank623/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/mayank623/Leetcode-Solutions/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/mayank623/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/mayank623/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mayank623/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mayank623/Leetcode-Solutions/tree/master/0242-valid-anagram) |
